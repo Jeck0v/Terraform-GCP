@@ -15,6 +15,10 @@ terraform plan
 ```bash
 terraform apply
 ```
+For destroy:
+```bash
+terraform destroy
+```
 You can test it with your-gcp-ip/index.html<br>
 The Terraform code is available under the ```infra``` directory. And the website code is available under the ```website``` directory.
  <br>
