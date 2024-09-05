@@ -1,6 +1,6 @@
 # <p align="center">Terraform simple config</p>
   ## 🛠️ Technologie
-- [TerraformI](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/)
 <hr>
 
 Retrieve your .json key file from GCP and put it in the folder.<br>
